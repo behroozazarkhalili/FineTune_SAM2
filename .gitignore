@@ -1,0 +1,6 @@
+Sam2-Training-Data/*
+__pycache__/
+.vscode/
+configuration.sh
+
+*.pyc
