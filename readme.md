@@ -79,6 +79,8 @@ jupyter notebook finetune_sam2.ipynb
    - Train the model
    - Evaluate results
 
+![plot](./Finetuning_schema.jpg)
+
 ## 📁 Project Structure
 
 ```plaintext
